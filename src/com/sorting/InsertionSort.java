@@ -1,7 +1,8 @@
 package com.sorting;
 
 import java.util.Arrays;
-
+// Time complexity: O(N*N)
+// Space complexity: O(1)
 class IS{
     void sort(int[] array){
     // finding the length of the array

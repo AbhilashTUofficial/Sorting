@@ -1,5 +1,6 @@
 package com.sorting;
-
+// Time complexity: O(N Log N)
+// Space complexity: O(n)
 import java.util.Arrays;
 
 

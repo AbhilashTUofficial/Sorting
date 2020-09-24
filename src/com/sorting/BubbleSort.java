@@ -1,5 +1,6 @@
 package com.sorting;
-
+// Time complexity: O(N*N)
+// Space complexity: O(1)
 import java.util.Arrays;
 
 class BS {

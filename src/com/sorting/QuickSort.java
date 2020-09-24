@@ -1,5 +1,6 @@
 package com.sorting;
-
+// Time complexity: O(N Log N)
+// Space complexity: O(N)
 import java.util.Arrays;
 
 class QS {
